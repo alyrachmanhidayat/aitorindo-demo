@@ -1,4 +1,4 @@
-# Autorindo Jaya Perkasa — Dashboard Konveksi (Demo)
+# Aitorindo Jaya Perkasa — Dashboard Konveksi (Demo)
 
 Prototipe tampilan untuk demo ke klien. Seluruh data adalah contoh (dummy) dan tersimpan di memori browser —
 data kembali ke awal setiap kali halaman di-refresh. Tidak ada backend.

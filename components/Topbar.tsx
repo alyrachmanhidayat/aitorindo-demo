@@ -39,7 +39,7 @@ export default function Topbar() {
             AJP
           </div>
           <div className="min-w-0">
-            <p className="font-poppins text-sm font-bold leading-tight text-[#0b0b0b]">Autorindo Jaya Perkasa</p>
+            <p className="font-poppins text-sm font-bold leading-tight text-[#0b0b0b]">Aitorindo Jaya Perkasa</p>
             <p className="text-[10px] leading-tight text-[#898781]">created by Arah Creative</p>
           </div>
         </div>

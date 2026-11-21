@@ -19,7 +19,7 @@ const poppins = Poppins({
 });
 
 export const metadata: Metadata = {
-  title: "Autorindo Jaya Perkasa — Dashboard Konveksi",
+  title: "Aitorindo Jaya Perkasa — Dashboard Konveksi",
   description:
     "Prototipe tampilan Dashboard Konveksi: kelola Purchase Order, marker kain, progres produksi, invoice, piutang, dan laporan omzet dalam satu sistem.",
 };
